@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534907170990",
+    "project_id": "inventorydb-adba0",
+    "storage_bucket": "inventorydb-adba0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534907170990:android:6b316951f564b56ea07d3f",
+        "android_client_info": {
+          "package_name": "com.example.act15"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD12J7JZ4jZFZZuddzhwwYaz1-SqfJWkDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
